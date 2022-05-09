@@ -1,4 +1,4 @@
-# Challenge_7
+# Passive Investment Analysis with SQL
 
 # Technologies
 
