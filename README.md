@@ -1,8 +1,10 @@
 # Passive Investment Analysis with SQL
 
+This application consists of building a financial database to perform an analysis on a fintech ETF portfolio, and then deploying it to a web application (please find attached). The analysis uses a combination of python and SQL in order to visualize the performance for individual stocks and the returns when combined as an ETF.
+
 # Technologies
 
-This program leverages python 3.7+
+This program leverages python 3.7+ and SQL
 
 To ensure all dependencies are installed and up-to-date, please run the following commands in your terminal once you have cloned the repository to your local machine.
 run pip install -r requirements.txt
@@ -30,6 +32,9 @@ run pip install -r requirements.txt
 
 3. Open the 'etf_analyzer.ipynb' notebook and follow the instructions therein.  
 ![Screen Shot 2022-05-08 at 1 56 29 PM](https://user-images.githubusercontent.com/98444459/167309099-597afadb-c12b-4a27-91ca-039ee2e7b52a.png)
+
+4. This analysis has been turned into a WebApplication as well. Please find a recording of the application in the repo.
+<img width="1579" alt="Screen Shot 2022-05-08 at 9 14 49 PM" src="https://user-images.githubusercontent.com/98444459/167324867-dcf7f01e-a9ac-4988-8e17-8b94969fa6f7.png">
 
 ---
 
